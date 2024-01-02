@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\Elayne\Documents\TesteSelenium\venv
+set VIRTUAL_ENV=C:\Users\20211ewbj0302\Documents\testes_automatizados\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
